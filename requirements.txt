@@ -1,6 +1,5 @@
 pytest
 # TODO: add additional package
 numpy
-import numpy as np
 scipy
-import scipy
+
