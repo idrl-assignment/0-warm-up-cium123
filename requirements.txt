@@ -1,2 +1,4 @@
 pytest
 # TODO: add additional package
+numpy
+import numpy as np
