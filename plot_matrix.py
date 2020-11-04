@@ -1,4 +1,3 @@
-# TODO: 
 import numpy as np
 import imageio
 def generate_random_matrix(m, n):
