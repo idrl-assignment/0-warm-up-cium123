@@ -2,7 +2,6 @@
 import numpy as np
 import scipy
 
-
 def generate_random_matrix(m, n):
     return(np.random.randint(0,2,(m,n))
 
