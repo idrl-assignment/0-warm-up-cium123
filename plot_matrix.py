@@ -3,7 +3,7 @@ import numpy as np
 import scipy
 
 def generate_random_matrix(m, n):
-    return(np.random.randint(0,2,(m,n))
+    return(np.random.randint(0,2,(m,n)))
 
 def save_matrix(matrix, file_name):
     return(scipy.misc.imsave(file_name,matrix))
