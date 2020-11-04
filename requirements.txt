@@ -2,4 +2,4 @@ pytest
 # TODO: add additional package
 numpy
 scipy
-
+imageio
